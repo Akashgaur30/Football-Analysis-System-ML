@@ -1,0 +1,999 @@
+video 1/1 (frame 154/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 327.5ms
+video 1/1 (frame 155/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 365.2ms
+video 1/1 (frame 156/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 371.2ms
+video 1/1 (frame 157/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 284.3ms
+video 1/1 (frame 158/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 289.8ms
+video 1/1 (frame 159/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 375.4ms
+video 1/1 (frame 160/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 390.6ms
+video 1/1 (frame 161/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 279.4ms
+video 1/1 (frame 162/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 364.8ms
+video 1/1 (frame 163/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 269.5ms
+video 1/1 (frame 164/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 446.4ms
+video 1/1 (frame 165/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 317.1ms
+video 1/1 (frame 166/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 393.7ms
+video 1/1 (frame 167/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 283.0ms
+video 1/1 (frame 168/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 326.9ms
+video 1/1 (frame 169/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 261.7ms
+video 1/1 (frame 170/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 341.5ms
+video 1/1 (frame 171/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 309.1ms
+video 1/1 (frame 172/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 277.9ms
+video 1/1 (frame 173/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 402.1ms
+video 1/1 (frame 174/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 395.4ms
+video 1/1 (frame 175/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 340.9ms
+video 1/1 (frame 176/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 280.4ms
+video 1/1 (frame 177/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 281.7ms
+video 1/1 (frame 178/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 264.3ms
+video 1/1 (frame 179/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 350.9ms
+video 1/1 (frame 180/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 285.2ms
+video 1/1 (frame 181/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 298.1ms
+video 1/1 (frame 182/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 297.9ms
+video 1/1 (frame 183/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 264.8ms
+video 1/1 (frame 184/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 337.5ms
+video 1/1 (frame 185/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 298.2ms
+video 1/1 (frame 186/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 446.6ms
+video 1/1 (frame 187/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 367.5ms
+video 1/1 (frame 188/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 290.3ms
+video 1/1 (frame 189/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 331.7ms
+video 1/1 (frame 190/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 350.0ms
+video 1/1 (frame 191/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 267.7ms
+video 1/1 (frame 192/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 282.6ms
+video 1/1 (frame 193/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 293.3ms
+video 1/1 (frame 194/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 332.1ms
+video 1/1 (frame 195/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 313.4ms
+video 1/1 (frame 196/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 276.1ms
+video 1/1 (frame 197/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 328.0ms
+video 1/1 (frame 198/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 306.6ms
+video 1/1 (frame 199/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 414.2ms
+video 1/1 (frame 200/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 359.6ms
+video 1/1 (frame 201/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 384.7ms
+video 1/1 (frame 202/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 362.0ms
+video 1/1 (frame 203/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 436.4ms
+video 1/1 (frame 204/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 491.2ms
+video 1/1 (frame 205/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 350.3ms
+video 1/1 (frame 206/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 310.6ms
+video 1/1 (frame 207/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 268.8ms
+video 1/1 (frame 208/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 347.2ms
+video 1/1 (frame 209/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 311.4ms
+video 1/1 (frame 210/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 277.3ms
+video 1/1 (frame 211/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 291.1ms
+video 1/1 (frame 212/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 315.9ms
+video 1/1 (frame 213/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 388.4ms
+video 1/1 (frame 214/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 344.9ms
+video 1/1 (frame 215/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 288.3ms
+video 1/1 (frame 216/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 307.1ms
+video 1/1 (frame 217/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 270.3ms
+video 1/1 (frame 218/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 361.9ms
+video 1/1 (frame 219/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 330.3ms
+video 1/1 (frame 220/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 262.5ms
+video 1/1 (frame 221/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 262.5ms
+video 1/1 (frame 222/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 278.1ms
+video 1/1 (frame 223/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 336.8ms
+video 1/1 (frame 224/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 310.9ms
+video 1/1 (frame 225/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 270.1ms
+video 1/1 (frame 226/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 278.4ms
+video 1/1 (frame 227/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 298.2ms
+video 1/1 (frame 228/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 268.5ms
+video 1/1 (frame 229/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 352.1ms
+video 1/1 (frame 230/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 425.0ms
+video 1/1 (frame 231/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 287.5ms
+video 1/1 (frame 232/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 309.5ms
+video 1/1 (frame 233/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 300.8ms
+video 1/1 (frame 234/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 272.7ms
+video 1/1 (frame 235/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 295.8ms
+video 1/1 (frame 236/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 274.4ms
+video 1/1 (frame 237/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 267.2ms
+video 1/1 (frame 238/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 281.8ms
+video 1/1 (frame 239/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 314.6ms
+video 1/1 (frame 240/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 320.6ms
+video 1/1 (frame 241/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 310.4ms
+video 1/1 (frame 242/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 316.4ms
+video 1/1 (frame 243/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 272.0ms
+video 1/1 (frame 244/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 342.5ms
+video 1/1 (frame 245/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 355.6ms
+video 1/1 (frame 246/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 276.2ms
+video 1/1 (frame 247/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 273.8ms
+video 1/1 (frame 248/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 285.6ms
+video 1/1 (frame 249/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 1444.7ms
+video 1/1 (frame 250/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 500.2ms
+video 1/1 (frame 251/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 421.5ms
+video 1/1 (frame 252/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 399.0ms
+video 1/1 (frame 253/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 308.7ms
+video 1/1 (frame 254/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 424.8ms
+video 1/1 (frame 255/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 398.1ms
+video 1/1 (frame 256/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 444.0ms
+video 1/1 (frame 257/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 364.2ms
+video 1/1 (frame 258/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 378.5ms
+video 1/1 (frame 259/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 331.4ms
+video 1/1 (frame 260/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 347.3ms
+video 1/1 (frame 261/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 383.5ms
+video 1/1 (frame 262/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 440.1ms
+video 1/1 (frame 263/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 290.9ms
+video 1/1 (frame 264/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 396.0ms
+video 1/1 (frame 265/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 286.2ms
+video 1/1 (frame 266/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 328.4ms
+video 1/1 (frame 267/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 349.0ms
+video 1/1 (frame 268/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 342.7ms
+video 1/1 (frame 269/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 227.6ms
+video 1/1 (frame 270/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 340.1ms
+video 1/1 (frame 271/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 368.9ms
+video 1/1 (frame 272/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 290.8ms
+video 1/1 (frame 273/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 281.1ms
+video 1/1 (frame 274/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 250.3ms
+video 1/1 (frame 275/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 257.1ms
+video 1/1 (frame 276/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 294.8ms
+video 1/1 (frame 277/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 228.3ms
+video 1/1 (frame 278/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 321.9ms
+video 1/1 (frame 279/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 234.1ms
+video 1/1 (frame 280/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 278.6ms
+video 1/1 (frame 281/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 323.8ms
+video 1/1 (frame 282/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 293.6ms
+video 1/1 (frame 283/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 271.3ms
+video 1/1 (frame 284/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 301.8ms
+video 1/1 (frame 285/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 239.7ms
+video 1/1 (frame 286/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 293.0ms
+video 1/1 (frame 287/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 685.9ms
+video 1/1 (frame 288/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 1227.4ms
+video 1/1 (frame 289/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 648.5ms
+video 1/1 (frame 290/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 547.1ms
+video 1/1 (frame 291/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 879.0ms
+video 1/1 (frame 292/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 788.2ms
+video 1/1 (frame 293/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 499.1ms
+video 1/1 (frame 294/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 489.5ms
+video 1/1 (frame 295/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 428.5ms
+video 1/1 (frame 296/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 536.1ms
+video 1/1 (frame 297/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 429.8ms
+video 1/1 (frame 298/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 514.1ms
+video 1/1 (frame 299/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 460.4ms
+video 1/1 (frame 300/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 507.2ms
+video 1/1 (frame 301/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 521.6ms
+video 1/1 (frame 302/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 545.3ms
+video 1/1 (frame 303/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 437.9ms
+video 1/1 (frame 304/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 714.2ms
+video 1/1 (frame 305/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 473.8ms
+video 1/1 (frame 306/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 406.5ms
+video 1/1 (frame 307/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 448.7ms
+video 1/1 (frame 308/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 507.8ms
+video 1/1 (frame 309/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 501.4ms
+video 1/1 (frame 310/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 484.2ms
+video 1/1 (frame 311/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 453.3ms
+video 1/1 (frame 312/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 486.8ms
+video 1/1 (frame 313/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 500.7ms
+video 1/1 (frame 314/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 532.9ms
+video 1/1 (frame 315/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 586.4ms
+video 1/1 (frame 316/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 450.1ms
+video 1/1 (frame 317/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 427.0ms
+video 1/1 (frame 318/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 541.7ms
+video 1/1 (frame 319/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 542.5ms
+video 1/1 (frame 320/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 426.5ms
+video 1/1 (frame 321/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 371.9ms
+video 1/1 (frame 322/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 533.7ms
+video 1/1 (frame 323/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 394.7ms
+video 1/1 (frame 324/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 428.1ms
+video 1/1 (frame 325/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 419.9ms
+video 1/1 (frame 326/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 573.6ms
+video 1/1 (frame 327/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 743.5ms
+video 1/1 (frame 328/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 440.9ms
+video 1/1 (frame 329/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 460.5ms
+video 1/1 (frame 330/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 540.1ms
+video 1/1 (frame 331/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 466.5ms
+video 1/1 (frame 332/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 550.4ms
+video 1/1 (frame 333/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 472.2ms
+video 1/1 (frame 334/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 432.0ms
+video 1/1 (frame 335/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 486.1ms
+video 1/1 (frame 336/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 504.4ms
+video 1/1 (frame 337/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 517.4ms
+video 1/1 (frame 338/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 442.5ms
+video 1/1 (frame 339/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 329.5ms
+video 1/1 (frame 340/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 304.9ms
+video 1/1 (frame 341/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 493.2ms
+video 1/1 (frame 342/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 549.2ms
+video 1/1 (frame 343/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 564.3ms
+video 1/1 (frame 344/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 632.5ms
+video 1/1 (frame 345/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 449.2ms
+video 1/1 (frame 346/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 337.4ms
+video 1/1 (frame 347/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 397.6ms
+video 1/1 (frame 348/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 471.0ms
+video 1/1 (frame 349/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 422.6ms
+video 1/1 (frame 350/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 410.0ms
+video 1/1 (frame 351/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 316.3ms
+video 1/1 (frame 352/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 536.5ms
+video 1/1 (frame 353/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 337.9ms
+video 1/1 (frame 354/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 379.9ms
+video 1/1 (frame 355/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 309.7ms
+video 1/1 (frame 356/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 383.6ms
+video 1/1 (frame 357/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 307.1ms
+video 1/1 (frame 358/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 368.3ms
+video 1/1 (frame 359/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 320.5ms
+video 1/1 (frame 360/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 329.1ms
+video 1/1 (frame 361/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 374.9ms
+video 1/1 (frame 362/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 381.4ms
+video 1/1 (frame 363/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 322.0ms
+video 1/1 (frame 364/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 339.2ms
+video 1/1 (frame 365/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 669.5ms
+video 1/1 (frame 366/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 685.9ms
+video 1/1 (frame 367/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 384.1ms
+video 1/1 (frame 368/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 1 tv, 515.8ms
+video 1/1 (frame 369/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 414.3ms
+video 1/1 (frame 370/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 328.3ms
+video 1/1 (frame 371/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 334.5ms
+video 1/1 (frame 372/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 322.4ms
+video 1/1 (frame 373/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 407.0ms
+video 1/1 (frame 374/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 323.0ms
+video 1/1 (frame 375/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 315.2ms
+video 1/1 (frame 376/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 300.2ms
+video 1/1 (frame 377/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 405.0ms
+video 1/1 (frame 378/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 292.0ms
+video 1/1 (frame 379/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 358.5ms
+video 1/1 (frame 380/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 311.5ms
+video 1/1 (frame 381/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 304.6ms
+video 1/1 (frame 382/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 365.4ms
+video 1/1 (frame 383/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 331.9ms
+video 1/1 (frame 384/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 292.8ms
+video 1/1 (frame 385/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 283.3ms
+video 1/1 (frame 386/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 2 chairs, 273.1ms
+video 1/1 (frame 387/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 1 chair, 310.2ms
+video 1/1 (frame 388/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 381.5ms
+video 1/1 (frame 389/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 286.0ms
+video 1/1 (frame 390/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 285.7ms
+video 1/1 (frame 391/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 266.7ms
+video 1/1 (frame 392/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 371.0ms
+video 1/1 (frame 393/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 330.6ms
+video 1/1 (frame 394/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 276.1ms
+video 1/1 (frame 395/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 255.5ms
+video 1/1 (frame 396/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 295.1ms
+video 1/1 (frame 397/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 311.8ms
+video 1/1 (frame 398/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 350.0ms
+video 1/1 (frame 399/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 273.3ms
+video 1/1 (frame 400/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 271.9ms
+video 1/1 (frame 401/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 292.7ms
+video 1/1 (frame 402/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 293.2ms
+video 1/1 (frame 403/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 325.7ms
+video 1/1 (frame 404/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 260.1ms
+video 1/1 (frame 405/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 1 bench, 281.6ms
+video 1/1 (frame 406/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 272.4ms
+video 1/1 (frame 407/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 320.4ms
+video 1/1 (frame 408/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 299.4ms
+video 1/1 (frame 409/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 269.3ms
+video 1/1 (frame 410/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 294.9ms
+video 1/1 (frame 411/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 274.8ms
+video 1/1 (frame 412/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 343.1ms
+video 1/1 (frame 413/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 270.3ms
+video 1/1 (frame 414/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 300.8ms
+video 1/1 (frame 415/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 284.9ms
+video 1/1 (frame 416/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 276.5ms
+video 1/1 (frame 417/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 bench, 337.5ms
+video 1/1 (frame 418/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 bench, 337.7ms
+video 1/1 (frame 419/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 bench, 336.2ms
+video 1/1 (frame 420/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1 bench, 1 tv, 375.7ms
+video 1/1 (frame 421/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 361.2ms
+video 1/1 (frame 422/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 347.6ms
+video 1/1 (frame 423/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 321.1ms
+video 1/1 (frame 424/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1 bench, 307.8ms
+video 1/1 (frame 425/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 299.7ms
+video 1/1 (frame 426/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 323.8ms
+video 1/1 (frame 427/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1 bench, 333.0ms
+video 1/1 (frame 428/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 bench, 361.5ms
+video 1/1 (frame 429/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 1 bench, 1 tv, 311.9ms
+video 1/1 (frame 430/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 263.8ms
+video 1/1 (frame 431/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 421.7ms
+video 1/1 (frame 432/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 491.3ms
+video 1/1 (frame 433/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 320.6ms
+video 1/1 (frame 434/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 1 bench, 335.5ms
+video 1/1 (frame 435/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 410.4ms
+video 1/1 (frame 436/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 323.5ms
+video 1/1 (frame 437/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 305.0ms
+video 1/1 (frame 438/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 bench, 262.5ms
+video 1/1 (frame 439/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 287.0ms
+video 1/1 (frame 440/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 396.3ms
+video 1/1 (frame 441/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 406.0ms
+video 1/1 (frame 442/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 271.9ms
+video 1/1 (frame 443/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 289.1ms
+video 1/1 (frame 444/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 bench, 294.8ms
+video 1/1 (frame 445/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 355.4ms
+video 1/1 (frame 446/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1 bench, 304.9ms
+video 1/1 (frame 447/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 307.8ms
+video 1/1 (frame 448/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 bench, 1 tv, 305.4ms
+video 1/1 (frame 449/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1 bench, 1 tv, 268.4ms
+video 1/1 (frame 450/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 320.7ms
+video 1/1 (frame 451/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 286.8ms
+video 1/1 (frame 452/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 28 persons, 1 sports ball, 1 tv, 329.2ms
+video 1/1 (frame 453/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 268.2ms
+video 1/1 (frame 454/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 426.8ms
+video 1/1 (frame 455/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1 tv, 304.9ms
+video 1/1 (frame 456/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 sports ball, 1 tv, 332.1ms
+video 1/1 (frame 457/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 286.2ms
+video 1/1 (frame 458/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 282.7ms
+video 1/1 (frame 459/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1 sports ball, 1 tv, 341.8ms
+video 1/1 (frame 460/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 350.4ms
+video 1/1 (frame 461/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 292.9ms
+video 1/1 (frame 462/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1 tv, 276.1ms
+video 1/1 (frame 463/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 268.5ms
+video 1/1 (frame 464/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 tv, 334.4ms
+video 1/1 (frame 465/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 sports ball, 361.2ms
+video 1/1 (frame 466/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 331.3ms
+video 1/1 (frame 467/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 284.1ms
+video 1/1 (frame 468/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 305.8ms
+video 1/1 (frame 469/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 28 persons, 359.6ms
+video 1/1 (frame 470/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 sports ball, 401.8ms
+video 1/1 (frame 471/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 267.3ms
+video 1/1 (frame 472/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 306.8ms
+video 1/1 (frame 473/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 497.4ms
+video 1/1 (frame 474/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 540.0ms
+video 1/1 (frame 475/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 27 persons, 1 bench, 479.6ms
+video 1/1 (frame 476/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1 tv, 352.5ms
+video 1/1 (frame 477/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 543.6ms
+video 1/1 (frame 478/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 379.7ms
+video 1/1 (frame 479/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 620.3ms
+video 1/1 (frame 480/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 426.6ms
+video 1/1 (frame 481/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 537.0ms
+video 1/1 (frame 482/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 382.0ms
+video 1/1 (frame 483/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 475.7ms
+video 1/1 (frame 484/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 684.7ms
+video 1/1 (frame 485/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 476.2ms
+video 1/1 (frame 486/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 369.7ms
+video 1/1 (frame 487/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1110.0ms
+video 1/1 (frame 488/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 675.2ms
+video 1/1 (frame 489/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 403.5ms
+video 1/1 (frame 490/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 624.3ms
+video 1/1 (frame 491/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 344.9ms
+video 1/1 (frame 492/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 374.2ms
+video 1/1 (frame 493/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 361.6ms
+video 1/1 (frame 494/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 615.1ms
+video 1/1 (frame 495/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1207.6ms
+video 1/1 (frame 496/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 497.5ms
+video 1/1 (frame 497/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 27 persons, 2352.2ms
+video 1/1 (frame 498/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 898.4ms
+video 1/1 (frame 499/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1095.9ms
+video 1/1 (frame 500/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 920.9ms
+video 1/1 (frame 501/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 1227.1ms
+video 1/1 (frame 502/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 27 persons, 1360.4ms
+video 1/1 (frame 503/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 1115.2ms
+video 1/1 (frame 504/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 28 persons, 609.4ms
+video 1/1 (frame 505/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 27 persons, 517.6ms
+video 1/1 (frame 506/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 641.0ms
+video 1/1 (frame 507/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 26 persons, 401.5ms
+video 1/1 (frame 508/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 595.8ms
+video 1/1 (frame 509/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 930.0ms
+video 1/1 (frame 510/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 646.2ms
+video 1/1 (frame 511/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 465.4ms
+video 1/1 (frame 512/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 1 chair, 556.9ms
+video 1/1 (frame 513/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 25 persons, 659.0ms
+video 1/1 (frame 514/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 456.9ms
+video 1/1 (frame 515/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 558.9ms
+video 1/1 (frame 516/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 791.1ms
+video 1/1 (frame 517/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 413.1ms
+video 1/1 (frame 518/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 819.4ms
+video 1/1 (frame 519/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 589.4ms
+video 1/1 (frame 520/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 438.3ms
+video 1/1 (frame 521/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 944.2ms
+video 1/1 (frame 522/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 923.0ms
+video 1/1 (frame 523/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 511.1ms
+video 1/1 (frame 524/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 1274.6ms
+video 1/1 (frame 525/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 568.7ms
+video 1/1 (frame 526/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 878.9ms
+video 1/1 (frame 527/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 908.9ms
+video 1/1 (frame 528/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 1081.0ms
+video 1/1 (frame 529/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 790.4ms
+video 1/1 (frame 530/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 563.5ms
+video 1/1 (frame 531/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 733.8ms
+video 1/1 (frame 532/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 645.9ms
+video 1/1 (frame 533/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 417.8ms
+video 1/1 (frame 534/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 883.5ms
+video 1/1 (frame 535/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 564.7ms
+video 1/1 (frame 536/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 394.8ms
+video 1/1 (frame 537/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 551.8ms
+video 1/1 (frame 538/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 677.1ms
+video 1/1 (frame 539/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 425.9ms
+video 1/1 (frame 540/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 967.9ms
+video 1/1 (frame 541/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 766.8ms
+video 1/1 (frame 542/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 451.3ms
+video 1/1 (frame 543/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 495.3ms
+video 1/1 (frame 544/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 693.7ms
+video 1/1 (frame 545/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 1095.5ms
+video 1/1 (frame 546/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 610.9ms
+video 1/1 (frame 547/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 473.0ms
+video 1/1 (frame 548/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 512.0ms
+video 1/1 (frame 549/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 457.6ms
+video 1/1 (frame 550/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 250.8ms
+video 1/1 (frame 551/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 304.4ms
+video 1/1 (frame 552/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 282.2ms
+video 1/1 (frame 553/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 302.0ms
+video 1/1 (frame 554/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 338.9ms
+video 1/1 (frame 555/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 408.3ms
+video 1/1 (frame 556/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 524.5ms
+video 1/1 (frame 557/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 415.9ms
+video 1/1 (frame 558/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 336.2ms
+video 1/1 (frame 559/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 349.4ms
+video 1/1 (frame 560/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 346.4ms
+video 1/1 (frame 561/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 306.1ms
+video 1/1 (frame 562/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 272.1ms
+video 1/1 (frame 563/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 366.7ms
+video 1/1 (frame 564/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 381.4ms
+video 1/1 (frame 565/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 326.3ms
+video 1/1 (frame 566/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 287.4ms
+video 1/1 (frame 567/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 358.9ms
+video 1/1 (frame 568/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 365.4ms
+video 1/1 (frame 569/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 306.0ms
+video 1/1 (frame 570/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 290.7ms
+video 1/1 (frame 571/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 281.0ms
+video 1/1 (frame 572/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 1 car, 345.0ms
+video 1/1 (frame 573/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 337.7ms
+video 1/1 (frame 574/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 344.7ms
+video 1/1 (frame 575/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 281.1ms
+video 1/1 (frame 576/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 293.7ms
+video 1/1 (frame 577/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 360.0ms
+video 1/1 (frame 578/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 344.4ms
+video 1/1 (frame 579/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 328.4ms
+video 1/1 (frame 580/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 285.2ms
+video 1/1 (frame 581/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 298.7ms
+video 1/1 (frame 582/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 473.2ms
+video 1/1 (frame 583/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 399.1ms
+video 1/1 (frame 584/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 285.6ms
+video 1/1 (frame 585/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 294.4ms
+video 1/1 (frame 586/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 287.2ms
+video 1/1 (frame 587/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 501.8ms
+video 1/1 (frame 588/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 339.5ms
+video 1/1 (frame 589/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 303.2ms
+video 1/1 (frame 590/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 292.1ms
+video 1/1 (frame 591/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1 car, 307.9ms
+video 1/1 (frame 592/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 1 car, 383.1ms
+video 1/1 (frame 593/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 1 car, 341.1ms
+video 1/1 (frame 594/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 299.1ms
+video 1/1 (frame 595/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 294.9ms
+video 1/1 (frame 596/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 307.7ms
+video 1/1 (frame 597/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 332.0ms
+video 1/1 (frame 598/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 366.6ms
+video 1/1 (frame 599/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 292.5ms
+video 1/1 (frame 600/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 265.9ms
+video 1/1 (frame 601/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 308.9ms
+video 1/1 (frame 602/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 341.8ms
+video 1/1 (frame 603/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 333.8ms
+video 1/1 (frame 604/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 334.3ms
+video 1/1 (frame 605/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 303.3ms
+video 1/1 (frame 606/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 370.3ms
+video 1/1 (frame 607/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 339.8ms
+video 1/1 (frame 608/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 294.7ms
+video 1/1 (frame 609/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 304.0ms
+video 1/1 (frame 610/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 316.3ms
+video 1/1 (frame 611/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 413.8ms
+video 1/1 (frame 612/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 348.4ms
+video 1/1 (frame 613/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 343.3ms
+video 1/1 (frame 614/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 319.5ms
+video 1/1 (frame 615/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 24 persons, 504.2ms
+video 1/1 (frame 616/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 344.9ms
+video 1/1 (frame 617/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 484.9ms
+video 1/1 (frame 618/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 518.9ms
+video 1/1 (frame 619/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 438.3ms
+video 1/1 (frame 620/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 391.4ms
+video 1/1 (frame 621/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 321.2ms
+video 1/1 (frame 622/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 393.6ms
+video 1/1 (frame 623/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 401.0ms
+video 1/1 (frame 624/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 448.6ms
+video 1/1 (frame 625/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 336.2ms
+video 1/1 (frame 626/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 345.8ms
+video 1/1 (frame 627/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 298.8ms
+video 1/1 (frame 628/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 442.7ms
+video 1/1 (frame 629/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 23 persons, 387.8ms
+video 1/1 (frame 630/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 423.4ms
+video 1/1 (frame 631/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 334.9ms
+video 1/1 (frame 632/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 348.5ms
+video 1/1 (frame 633/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 384.2ms
+video 1/1 (frame 634/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 298.0ms
+video 1/1 (frame 635/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 266.8ms
+video 1/1 (frame 636/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 22 persons, 285.6ms
+video 1/1 (frame 637/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 373.2ms
+video 1/1 (frame 638/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 337.3ms
+video 1/1 (frame 639/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 303.8ms
+video 1/1 (frame 640/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 316.7ms
+video 1/1 (frame 641/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 299.5ms
+video 1/1 (frame 642/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 20 persons, 390.6ms
+video 1/1 (frame 643/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 364.6ms
+video 1/1 (frame 644/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 324.9ms
+video 1/1 (frame 645/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 303.2ms
+video 1/1 (frame 646/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 335.1ms
+video 1/1 (frame 647/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 366.4ms
+video 1/1 (frame 648/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 327.8ms
+video 1/1 (frame 649/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 293.0ms
+video 1/1 (frame 650/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 345.1ms
+video 1/1 (frame 651/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 1 car, 269.8ms
+video 1/1 (frame 652/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 431.9ms
+video 1/1 (frame 653/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 366.5ms
+video 1/1 (frame 654/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 325.4ms
+video 1/1 (frame 655/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 348.5ms
+video 1/1 (frame 656/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 366.9ms
+video 1/1 (frame 657/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 452.2ms
+video 1/1 (frame 658/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 317.9ms
+video 1/1 (frame 659/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 366.0ms
+video 1/1 (frame 660/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 351.5ms
+video 1/1 (frame 661/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 557.9ms
+video 1/1 (frame 662/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 385.4ms
+video 1/1 (frame 663/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 296.3ms
+video 1/1 (frame 664/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 316.0ms
+video 1/1 (frame 665/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 386.7ms
+video 1/1 (frame 666/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 332.6ms
+video 1/1 (frame 667/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 316.1ms
+video 1/1 (frame 668/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 277.1ms
+video 1/1 (frame 669/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 293.4ms
+video 1/1 (frame 670/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 327.4ms
+video 1/1 (frame 671/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 446.8ms
+video 1/1 (frame 672/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 285.2ms
+video 1/1 (frame 673/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 308.1ms
+video 1/1 (frame 674/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 332.5ms
+video 1/1 (frame 675/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 539.8ms
+video 1/1 (frame 676/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 478.3ms
+video 1/1 (frame 677/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 385.4ms
+video 1/1 (frame 678/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 350.2ms
+video 1/1 (frame 679/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 354.2ms
+video 1/1 (frame 680/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 304.5ms
+video 1/1 (frame 681/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 322.9ms
+video 1/1 (frame 682/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 297.5ms
+video 1/1 (frame 683/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 307.9ms
+video 1/1 (frame 684/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 311.6ms
+video 1/1 (frame 685/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 307.9ms
+video 1/1 (frame 686/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 342.3ms
+video 1/1 (frame 687/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 271.2ms
+video 1/1 (frame 688/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 294.7ms
+video 1/1 (frame 689/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 308.1ms
+video 1/1 (frame 690/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 338.3ms
+video 1/1 (frame 691/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 311.2ms
+video 1/1 (frame 692/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 297.8ms
+video 1/1 (frame 693/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 271.8ms
+video 1/1 (frame 694/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 351.9ms
+video 1/1 (frame 695/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 329.4ms
+video 1/1 (frame 696/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 310.2ms
+video 1/1 (frame 697/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 294.3ms
+video 1/1 (frame 698/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 11 persons, 296.1ms
+video 1/1 (frame 699/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 417.6ms
+video 1/1 (frame 700/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 364.4ms
+video 1/1 (frame 701/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 10 persons, 297.9ms
+video 1/1 (frame 702/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 301.5ms
+video 1/1 (frame 703/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 278.8ms
+video 1/1 (frame 704/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 356.6ms
+video 1/1 (frame 705/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 302.2ms
+video 1/1 (frame 706/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 301.1ms
+video 1/1 (frame 707/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 294.8ms
+video 1/1 (frame 708/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 328.0ms
+video 1/1 (frame 709/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 384.9ms
+video 1/1 (frame 710/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 304.1ms
+video 1/1 (frame 711/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 277.5ms
+video 1/1 (frame 712/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 277.1ms
+video 1/1 (frame 713/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 383.7ms
+video 1/1 (frame 714/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 353.2ms
+video 1/1 (frame 715/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 357.4ms
+video 1/1 (frame 716/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 339.8ms
+video 1/1 (frame 717/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 350.4ms
+video 1/1 (frame 718/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 326.2ms
+video 1/1 (frame 719/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 434.7ms
+video 1/1 (frame 720/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 21 persons, 331.9ms
+video 1/1 (frame 721/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 345.1ms
+video 1/1 (frame 722/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 286.3ms
+video 1/1 (frame 723/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 288.8ms
+video 1/1 (frame 724/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 366.4ms
+video 1/1 (frame 725/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 388.9ms
+video 1/1 (frame 726/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 333.1ms
+video 1/1 (frame 727/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 335.1ms
+video 1/1 (frame 728/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 407.7ms
+video 1/1 (frame 729/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 482.9ms
+video 1/1 (frame 730/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 332.4ms
+video 1/1 (frame 731/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 283.9ms
+video 1/1 (frame 732/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 305.6ms
+video 1/1 (frame 733/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 357.3ms
+video 1/1 (frame 734/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 14 persons, 336.8ms
+video 1/1 (frame 735/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 301.1ms
+video 1/1 (frame 736/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 16 persons, 303.4ms
+video 1/1 (frame 737/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 279.6ms
+video 1/1 (frame 738/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 345.9ms
+video 1/1 (frame 739/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 304.0ms
+video 1/1 (frame 740/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 291.3ms
+video 1/1 (frame 741/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 11 persons, 277.9ms
+video 1/1 (frame 742/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 12 persons, 351.7ms
+video 1/1 (frame 743/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 561.8ms
+video 1/1 (frame 744/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 15 persons, 568.2ms
+video 1/1 (frame 745/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 318.6ms
+video 1/1 (frame 746/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 323.1ms
+video 1/1 (frame 747/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 19 persons, 339.5ms
+video 1/1 (frame 748/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 17 persons, 342.3ms
+video 1/1 (frame 749/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 18 persons, 331.4ms
+video 1/1 (frame 750/750) C:\Users\Dell\Desktop\footballAI\input_videos\foo.mp4: 384x640 13 persons, 317.2ms
+Speed: 10.3ms preprocess, 400.0ms inference, 4.0ms postprocess per image at shape (1, 3, 384, 640)
+Results saved to runs\detect\predict
+ultralytics.engine.results.Results object with attributes:
+
+boxes: ultralytics.engine.results.Boxes object
+keypoints: None
+masks: None
+names: {0: 'person', 1: 'bicycle', 2: 'car', 3: 'motorcycle', 4: 'airplane', 5: 'bus', 6: 'train', 7: 'truck', 8: 'boat', 9: 'traffic light', 10: 'fire hydrant', 11: 'stop sign', 12: 'parking meter', 13: 'bench', 14: 'bird', 15: 'cat', 16: 'dog', 17: 'horse', 18: 'sheep', 19: 'cow', 20: 'elephant', 21: 'bear', 22: 'zebra', 23: 'giraffe', 24: 'backpack', 25: 'umbrella', 26: 'handbag', 27: 'tie', 28: 'suitcase', 29: 'frisbee', 30: 'skis', 31: 'snowboard', 32: 'sports ball', 33: 'kite', 34: 'baseball bat', 35: 'baseball glove', 36: 'skateboard', 37: 'surfboard', 38: 'tennis racket', 39: 'bottle', 40: 'wine glass', 41: 'cup', 42: 'fork', 43: 'knife', 44: 'spoon', 45: 'bowl', 46: 'banana', 47: 'apple', 48: 'sandwich', 49: 'orange', 50: 'broccoli', 51: 'carrot', 52: 'hot dog', 53: 'pizza', 54: 'donut', 55: 'cake', 56: 'chair', 57: 'couch', 58: 'potted plant', 59: 'bed', 60: 'dining table', 61: 'toilet', 62: 'tv', 63: 'laptop', 64: 'mouse', 65: 'remote', 66: 'keyboard', 67: 'cell phone', 68: 'microwave', 69: 'oven', 70: 'toaster', 71: 'sink', 72: 'refrigerator', 73: 'book', 74: 'clock', 75: 'vase', 76: 'scissors', 77: 'teddy bear', 78: 'hair drier', 79: 'toothbrush'}
+obb: None
+orig_img: array([[[100, 146, 105],
+        [ 92, 138,  97],
+        [ 97, 150, 101],
+        ...,
+        [100,  92,  82],
+        [103,  95,  85],
+        [105,  97,  87]],
+
+       [[ 99, 145, 104],
+        [ 99, 145, 104],
+        [109, 162, 113],
+        ...,
+        [105,  97,  87],
+        [107,  99,  89],
+        [108, 100,  90]],
+
+       [[ 96, 149, 100],
+        [105, 158, 109],
+        [112, 170, 113],
+        ...,
+        [106,  98,  88],
+        [108, 100,  90],
+        [110, 102,  92]],
+
+       ...,
+
+       [[ 74, 103,  78],
+        [ 74, 103,  78],
+        [ 74, 103,  78],
+        ...,
+        [ 30,  47,  43],
+        [ 31,  48,  44],
+        [ 31,  48,  44]],
+
+       [[ 74, 103,  78],
+        [ 74, 103,  78],
+        [ 74, 103,  78],
+        ...,
+        [ 44,  56,  55],
+        [ 46,  58,  57],
+        [ 46,  58,  57]],
+
+       [[ 74, 103,  78],
+        [ 74, 103,  78],
+        [ 74, 103,  78],
+        ...,
+        [ 48,  60,  59],
+        [ 49,  61,  60],
+        [ 49,  61,  60]]], dtype=uint8)
+orig_shape: (1080, 1920)
+path: 'C:\\Users\\Dell\\Desktop\\footballAI\\input_videos\\foo.mp4'
+probs: None
+save_dir: 'runs\\detect\\predict'
+speed: {'preprocess': 8.416175842285156, 'inference': 384.8080635070801, 'postprocess': 5.627870559692383}
+=========================
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.7660])
+data: tensor([[5.3302e+02, 6.8714e+02, 5.7907e+02, 7.8698e+02, 7.6599e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[556.0414, 737.0588,  46.0479,  99.8365]])
+xywhn: tensor([[0.2896, 0.6825, 0.0240, 0.0924]])
+xyxy: tensor([[533.0175, 687.1406, 579.0653, 786.9771]])
+xyxyn: tensor([[0.2776, 0.6362, 0.3016, 0.7287]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.7635])
+data: tensor([[222.3843, 514.8688, 254.1991, 596.1918,   0.7635,   0.0000]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[238.2917, 555.5303,  31.8148,  81.3230]])
+xywhn: tensor([[0.1241, 0.5144, 0.0166, 0.0753]])
+xyxy: tensor([[222.3843, 514.8688, 254.1991, 596.1918]])
+xyxyn: tensor([[0.1158, 0.4767, 0.1324, 0.5520]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.7595])
+data: tensor([[9.9586e+02, 4.5496e+02, 1.0284e+03, 5.2690e+02, 7.5945e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1012.1245,  490.9291,   32.5309,   71.9390]])
+xywhn: tensor([[0.5271, 0.4546, 0.0169, 0.0666]])
+xyxy: tensor([[ 995.8590,  454.9596, 1028.3899,  526.8986]])
+xyxyn: tensor([[0.5187, 0.4213, 0.5356, 0.4879]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.7432])
+data: tensor([[1.5721e+03, 6.1022e+02, 1.6145e+03, 6.9718e+02, 7.4325e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1593.3081,  653.6974,   42.3615,   86.9561]])
+xywhn: tensor([[0.8298, 0.6053, 0.0221, 0.0805]])
+xyxy: tensor([[1572.1274,  610.2194, 1614.4889,  697.1754]])
+xyxyn: tensor([[0.8188, 0.5650, 0.8409, 0.6455]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.7028])
+data: tensor([[3.5831e+02, 7.1958e+02, 3.9385e+02, 8.2645e+02, 7.0285e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[376.0781, 773.0160,  35.5458, 106.8624]])
+xywhn: tensor([[0.1959, 0.7158, 0.0185, 0.0989]])
+xyxy: tensor([[358.3052, 719.5848, 393.8510, 826.4471]])
+xyxyn: tensor([[0.1866, 0.6663, 0.2051, 0.7652]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6950])
+data: tensor([[588.7753, 589.8021, 628.4091, 671.7834,   0.6950,   0.0000]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[608.5922, 630.7927,  39.6337,  81.9813]])
+xywhn: tensor([[0.3170, 0.5841, 0.0206, 0.0759]])
+xyxy: tensor([[588.7753, 589.8021, 628.4091, 671.7834]])
+xyxyn: tensor([[0.3067, 0.5461, 0.3273, 0.6220]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6892])
+data: tensor([[1.8532e+03, 8.0699e+02, 1.8951e+03, 9.1830e+02, 6.8915e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1874.1506,  862.6441,   41.9462,  111.3091]])
+xywhn: tensor([[0.9761, 0.7987, 0.0218, 0.1031]])
+xyxy: tensor([[1853.1776,  806.9896, 1895.1238,  918.2986]])
+xyxyn: tensor([[0.9652, 0.7472, 0.9870, 0.8503]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6839])
+data: tensor([[329.0454, 495.1610, 365.1591, 569.1072,   0.6839,   0.0000]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[347.1022, 532.1341,  36.1137,  73.9462]])
+xywhn: tensor([[0.1808, 0.4927, 0.0188, 0.0685]])
+xyxy: tensor([[329.0454, 495.1610, 365.1591, 569.1072]])
+xyxyn: tensor([[0.1714, 0.4585, 0.1902, 0.5270]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6832])
+data: tensor([[1.2743e+02, 9.7051e+02, 1.6749e+02, 1.0800e+03, 6.8318e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[ 147.4601, 1025.2568,   40.0619,  109.4862]])
+xywhn: tensor([[0.0768, 0.9493, 0.0209, 0.1014]])
+xyxy: tensor([[ 127.4291,  970.5138,  167.4910, 1080.0000]])
+xyxyn: tensor([[0.0664, 0.8986, 0.0872, 1.0000]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6796])
+data: tensor([[1.2345e+03, 4.3251e+02, 1.2632e+03, 5.0073e+02, 6.7957e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1248.8069,  466.6206,   28.6952,   68.2126]])
+xywhn: tensor([[0.6504, 0.4321, 0.0149, 0.0632]])
+xyxy: tensor([[1234.4594,  432.5143, 1263.1545,  500.7269]])
+xyxyn: tensor([[0.6429, 0.4005, 0.6579, 0.4636]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6334])
+data: tensor([[1.3703e+03, 8.1393e+02, 1.4429e+03, 9.0137e+02, 6.3340e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1406.6155,  857.6533,   72.6266,   87.4398]])
+xywhn: tensor([[0.7326, 0.7941, 0.0378, 0.0810]])
+xyxy: tensor([[1370.3022,  813.9333, 1442.9288,  901.3732]])
+xyxyn: tensor([[0.7137, 0.7536, 0.7515, 0.8346]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6233])
+data: tensor([[8.5044e+02, 6.3775e+02, 9.0008e+02, 7.2106e+02, 6.2330e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[875.2599, 679.4048,  49.6304,  83.3170]])
+xywhn: tensor([[0.4559, 0.6291, 0.0258, 0.0771]])
+xyxy: tensor([[850.4447, 637.7463, 900.0751, 721.0634]])
+xyxyn: tensor([[0.4429, 0.5905, 0.4688, 0.6677]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6228])
+data: tensor([[375.1014, 304.9482, 399.4374, 367.7160,   0.6228,   0.0000]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[387.2694, 336.3321,  24.3360,  62.7678]])
+xywhn: tensor([[0.2017, 0.3114, 0.0127, 0.0581]])
+xyxy: tensor([[375.1014, 304.9482, 399.4374, 367.7160]])
+xyxyn: tensor([[0.1954, 0.2824, 0.2080, 0.3405]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.6088])
+data: tensor([[8.7474e+02, 3.6121e+02, 9.0521e+02, 4.2563e+02, 6.0878e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[889.9722, 393.4208,  30.4713,  64.4271]])
+xywhn: tensor([[0.4635, 0.3643, 0.0159, 0.0597]])
+xyxy: tensor([[874.7366, 361.2072, 905.2079, 425.6343]])
+xyxyn: tensor([[0.4556, 0.3345, 0.4715, 0.3941]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.5540])
+data: tensor([[1.2781e+03, 3.9445e+02, 1.3044e+03, 4.6782e+02, 5.5397e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1291.2664,  431.1356,   26.3595,   73.3630]])
+xywhn: tensor([[0.6725, 0.3992, 0.0137, 0.0679]])
+xyxy: tensor([[1278.0865,  394.4540, 1304.4460,  467.8171]])
+xyxyn: tensor([[0.6657, 0.3652, 0.6794, 0.4332]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.5174])
+data: tensor([[1.0337e+03, 9.3144e+02, 1.0788e+03, 1.0565e+03, 5.1740e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1056.2102,  993.9668,   45.1141,  125.0504]])
+xywhn: tensor([[0.5501, 0.9203, 0.0235, 0.1158]])
+xyxy: tensor([[1033.6531,  931.4416, 1078.7672, 1056.4919]])
+xyxyn: tensor([[0.5384, 0.8624, 0.5619, 0.9782]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.5138])
+data: tensor([[1.1620e+03, 3.5723e+02, 1.1860e+03, 4.1339e+02, 5.1375e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1173.9722,  385.3082,   24.0123,   56.1575]])
+xywhn: tensor([[0.6114, 0.3568, 0.0125, 0.0520]])
+xyxy: tensor([[1161.9661,  357.2294, 1185.9784,  413.3870]])
+xyxyn: tensor([[0.6052, 0.3308, 0.6177, 0.3828]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.5031])
+data: tensor([[1.3081e+03, 4.4807e+02, 1.3534e+03, 5.1811e+02, 5.0315e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1330.7766,  483.0908,   45.2875,   70.0396]])
+xywhn: tensor([[0.6931, 0.4473, 0.0236, 0.0649]])
+xyxy: tensor([[1308.1329,  448.0710, 1353.4204,  518.1105]])
+xyxyn: tensor([[0.6813, 0.4149, 0.7049, 0.4797]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.4895])
+data: tensor([[1.1229e+03, 7.0704e+02, 1.1965e+03, 7.9857e+02, 4.8951e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1159.7170,  752.8076,   73.6241,   91.5286]])
+xywhn: tensor([[0.6040, 0.6970, 0.0383, 0.0847]])
+xyxy: tensor([[1122.9049,  707.0433, 1196.5291,  798.5719]])
+xyxyn: tensor([[0.5848, 0.6547, 0.6232, 0.7394]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.4673])
+data: tensor([[6.9159e+02, 9.9434e+02, 7.3324e+02, 1.0800e+03, 4.6733e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[ 712.4170, 1037.1711,   41.6543,   85.6578]])
+xywhn: tensor([[0.3711, 0.9603, 0.0217, 0.0793]])
+xyxy: tensor([[ 691.5898,  994.3422,  733.2441, 1080.0000]])
+xyxyn: tensor([[0.3602, 0.9207, 0.3819, 1.0000]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([32.])
+conf: tensor([0.4024])
+data: tensor([[1.1859e+03, 8.5067e+02, 1.2054e+03, 8.6802e+02, 4.0239e-01, 3.2000e+01]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1195.6348,  859.3455,   19.4355,   17.3575]])
+xywhn: tensor([[0.6227, 0.7957, 0.0101, 0.0161]])
+xyxy: tensor([[1185.9170,  850.6667, 1205.3525,  868.0242]])
+xyxyn: tensor([[0.6177, 0.7877, 0.6278, 0.8037]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.3678])
+data: tensor([[1.9028e+03, 3.7823e+02, 1.9192e+03, 4.4323e+02, 3.6782e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1910.9806,  410.7283,   16.4377,   65.0030]])
+xywhn: tensor([[0.9953, 0.3803, 0.0086, 0.0602]])
+xyxy: tensor([[1902.7617,  378.2268, 1919.1995,  443.2298]])
+xyxyn: tensor([[0.9910, 0.3502, 0.9996, 0.4104]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.2664])
+data: tensor([[9.4536e+02, 2.1317e+02, 9.7036e+02, 2.7458e+02, 2.6637e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[957.8608, 243.8744,  25.0020,  61.4178]])
+xywhn: tensor([[0.4989, 0.2258, 0.0130, 0.0569]])
+xyxy: tensor([[945.3598, 213.1655, 970.3618, 274.5833]])
+xyxyn: tensor([[0.4924, 0.1974, 0.5054, 0.2542]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.2656])
+data: tensor([[7.7587e+02, 3.7086e+02, 8.0524e+02, 4.8746e+02, 2.6560e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[790.5529, 429.1634,  29.3687, 116.6012]])
+xywhn: tensor([[0.4117, 0.3974, 0.0153, 0.1080]])
+xyxy: tensor([[775.8686, 370.8628, 805.2372, 487.4640]])
+xyxyn: tensor([[0.4041, 0.3434, 0.4194, 0.4514]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.2600])
+data: tensor([[1.0345e+03, 9.3271e+02, 1.0760e+03, 1.0145e+03, 2.6003e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[1055.2285,  973.5927,   41.4486,   81.7731]])
+xywhn: tensor([[0.5496, 0.9015, 0.0216, 0.0757]])
+xyxy: tensor([[1034.5042,  932.7061, 1075.9528, 1014.4792]])
+xyxyn: tensor([[0.5388, 0.8636, 0.5604, 0.9393]])
+ultralytics.engine.results.Boxes object with attributes:
+
+cls: tensor([0.])
+conf: tensor([0.2512])
+data: tensor([[7.7626e+02, 4.1988e+02, 8.0620e+02, 4.9064e+02, 2.5119e-01, 0.0000e+00]])
+id: None
+is_track: False
+orig_shape: (1080, 1920)
+shape: torch.Size([1, 6])
+xywh: tensor([[791.2321, 455.2579,  29.9352,  70.7606]])
+xywhn: tensor([[0.4121, 0.4215, 0.0156, 0.0655]])
+xyxy: tensor([[776.2645, 419.8776, 806.1996, 490.6382]])
+xyxyn: tensor([[0.4043, 0.3888, 0.4199, 0.4543]])

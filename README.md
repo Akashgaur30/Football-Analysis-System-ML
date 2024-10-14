@@ -1,3 +1,54 @@
+# Football Analysis System using Machine Learning and Computer Vision
+
+This project demonstrates the use of machine learning, computer vision, and deep learning to build an advanced football analysis system. The system is capable of detecting and tracking players, referees, and footballs, as well as analyzing various performance metrics such as ball possession, player speed, and distance covered.
+
+## Features
+- **Object Detection**: Utilizes YOLOv8, a state-of-the-art object detector, to detect players, referees, and footballs in images and videos.
+- **Custom Model Training**: Fine-tunes YOLOv8 on a custom dataset for improved detection accuracy.
+- **Player Team Assignment**: Uses KMeans clustering for pixel segmentation to assign players to teams based on t-shirt color.
+- **Tracking**: Tracks players and objects across video frames using object tracking techniques.
+- **Camera Movement**: Measures camera movement between frames using optical flow to ensure accurate player tracking.
+- **Perspective Transformation**: Applies OpenCV's perspective transformation to convert scene depth and perspective, allowing accurate measurement of player movement in meters.
+- **Performance Metrics**: Calculates player speed and distance covered for in-depth performance analysis.
+
+## Technologies Used
+- **YOLOv8**: For object detection
+- **OpenCV**: For computer vision tasks including tracking, perspective transformation, and optical flow
+- **KMeans Clustering**: For pixel segmentation and team identification
+- **Python**: Core programming language for the system
+
+## How to Run the Project
+
+
+## Contributing
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
+
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Akashgaur30/football-analysis-system.git
+   cd football-analysis-system
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3.Run the detection and tracking system:
+ ```bash
+python main.py 
+```
+## Key Concepts Covered
+- **Object detection** with YOLOv8.
+- **Training custom YOLO models**.
+- **KMeans** for team assignment based on t-shirt color.
+- **Optical flow** for measuring camera movement.
+- **Perspective transformation** for accurate distance and speed calculation. 
+ 
+## Contributing
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
+
+
+
 
 Here’s a more detailed explanation of the terms you listed, integrating key details to highlight their technical depth:
 
@@ -22,4 +73,8 @@ Optical Flow refers to the pattern of apparent motion of objects in a visual sce
 ## 7. Perspective Transformation
 Perspective Transformation is a mathematical technique used to project 3D objects onto a 2D plane while preserving depth, distance, and the relative proportions of objects. This transformation simulates how the human eye perceives objects at different distances and angles, thus creating a sense of depth. In computer vision, it is used for tasks like image rectification, homography (finding the transformation between two different views of the same scene), and 3D reconstruction from images. It plays a critical role in augmented reality (AR), drone navigation, and creating realistic virtual environments in gaming. The transformation uses matrix operations to map the coordinates of points in a 3D space onto the 2D image plane.
 
-Each of these technologies plays a crucial role in advancing real-time, AI-driven systems, with applications spanning across multiple domains, from image recognition to autonomous systems, human-computer interaction, and beyond.
+Each of these technologies plays a crucial role in advancing real-time, AI-driven systems, with applications spanning across multiple domains, from image recognition to autonomous systems, human-computer interaction, and beyond. 
+
+
+## Contributing
+Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
